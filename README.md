@@ -4,6 +4,9 @@
 Este es el repositorio del grupo 5 de Ingeniería de Software. Está destinado a
 guardar información relevante a la materia durante el cursado de la misma. 
 
+### Momentos de creación de línea base:
+* Realización de TP evaluables
+* Previo a parcial teórico-práctico de la cátedra
 
 ### Integrantes:
 * [Benito Federico] - 66921
